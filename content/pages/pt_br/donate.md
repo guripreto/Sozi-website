@@ -1,11 +1,9 @@
 Title: Doar
 Slug: 60-contribute
 Lang: pt_br
-Author: Guillaume Savaton
+Author: Guillaume Savaton, Marcelo Vaz Pupo
 
-> This page has not been translated yet
-
-We accept donations using the following services:
+Aceitamos doações através dos seguintes serviços:
 
 * [Flattr](https://flattr.com/submit/auto?fid=4lz3lv&url=http://sozi.baierouge.fr/)
 * [Liberapay](https://liberapay.com/senshu/donate)
